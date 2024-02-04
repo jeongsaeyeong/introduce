@@ -210,7 +210,6 @@ select {
 
 #side {
     width: 25%;
-    height: 100vh;
     background-image: url(./img/heart-1213475_1280.jpg);
     background-size: cover;
     background-position: center center;
@@ -229,7 +228,6 @@ select {
     top: 0;
     left: 0;
     width: 25%;
-    height: 100vh;
     background-color: rgba(0, 0, 0, 0.219); /* 검은색 레이어의 색상 및 투명도 조절 가능 */
 }
 
@@ -430,7 +428,6 @@ select {
     background-color: #e2ecff;
     align-content: flex-end;
     align-content: space-around;
-    position: fixed;
     bottom: 0;
 }
 
